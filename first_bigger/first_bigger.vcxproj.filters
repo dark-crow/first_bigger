@@ -21,5 +21,11 @@
     <ClCompile Include="Employee.cppm">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Employee.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
